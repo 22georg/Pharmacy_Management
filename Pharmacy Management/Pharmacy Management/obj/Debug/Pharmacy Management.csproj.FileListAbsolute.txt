@@ -1,0 +1,83 @@
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Form1.resources
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\Users\User\Documents\New folder\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.admin.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\george\project\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\george\project\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.SuggestedBindingRedirects.cache
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Form1.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.Administor.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.Add_user.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.custo.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.Add_me.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar_manag.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.Add_ph.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.admin_add.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.admin_view.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.cus_view.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.med_mod.resources
+C:\george\project\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar_view.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.SuggestedBindingRedirects.cache
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.Administor.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.admin_add.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.Add_user.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.custo.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.Add_me.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Form1.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.Add_ph.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.med_mod.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar_manag.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.add_v.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar_vie.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.add_vieuser.resources
+E:\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.add_man.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe.config
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.exe
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.add_man.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.add_vieuser.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.add_v.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.Administor.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.admin.admin_add.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.Add_user.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.custo.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.customer.Add_me.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Form1.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.Add_ph.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.med_mod.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar_manag.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.pharma.phar_vie.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.GenerateResource.cache
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.exe
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\obj\Debug\Pharmacy Management.pdb
+C:\Users\user\Desktop\project\Pharmacy Management\Pharmacy Management\Pharmacy Management\bin\Debug\Pharmacy Management.pdb
